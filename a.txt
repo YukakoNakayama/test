@@ -49,3 +49,4 @@ $ history
    47  rm -r sub1
    48  rm -r sub2
    49  history
+   50  test test
