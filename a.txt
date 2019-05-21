@@ -1,0 +1,51 @@
+uw-ykk@yg-ykkpc MINGW64 ~/desktop/test
+$ history
+    1  mkdir test
+    2  pwd
+    3  pwd
+    4  cd /c/Users/uw-ykk
+    5  pwd
+    6  mkdir test
+    7  mkdir test
+    8  cd プログラミング研修
+    9  cd 01_1column_mt
+   10  cd desktop
+   11  mkdir test
+   12  cd test
+   13  touch a.text
+   14  cat a.txt
+   15  touch a.txt
+   16  cat a.txt
+   17  cat a.txt
+   18  cat a.txt
+   19  cp a.txt c.txt
+   20  mv c.txt b.txt
+   21  mkdir sub1
+   22  mv b.txt sub1
+   23  cd text
+   24  cd test
+   25  cd sub1
+   26  rm b.txt
+   27  cd ..
+   28  mkdir sub2
+   29  cd desktop
+   30  mkdir test
+   31  cd test
+   32  touch a.txt
+   33  cat a.txt
+   34  cp a.txt c.txt
+   35  mv c.txt b.txt
+   36  mkdir sub1
+   37  mv b.txt sub1
+   38  cd sub1
+   39  rm b.txt
+   40  cd ..
+   41  mkdir sub2
+   42  cp -r sub1 sub3
+   43  mv sub3 sub2
+   44  cd sub2
+   45  cd ..
+   46  rm sub1
+   47  rm -r sub1
+   48  rm -r sub2
+   49  history
